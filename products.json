@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "description": "Comfortable sound for everyday use.",
+    "price": 1499,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "description": "A simple companion for your day.",
+    "price": 2199,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Backpack",
+    "description": "Carry your essentials comfortably.",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Water Bottle",
+    "description": "Reusable bottle for everyday use.",
+    "price": 399,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Desk Lamp",
+    "description": "A useful light for your study table.",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Coffee Mug",
+    "description": "A simple mug for your favourite drink.",
+    "price": 249,
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=700&q=80"
+  }
+]
